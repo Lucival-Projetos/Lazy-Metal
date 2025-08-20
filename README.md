@@ -45,21 +45,30 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
         Pallete/ #local para guardar as paletas do sistema de tilemap do Unity
           Tiles/ # pasta dentro de Pellete para guardar cada tile (uma dessa para cada tilemap)
 
+
 ## **3. Etapas de Entrega (Cronograma Detalhado)**
 
-### **Etapa 1: Protótipo Básico (Bimestre 1)** **~Já entregue~**
+### **~Etapa 1: Protótipo Básico (Bimestre 1)~** **Já entregue**
 
-### **Etapa 2: Lógica do Jogo (Bimestre 2)**
+### **~Etapa 2: Lógica do Jogo (Bimestre 2)~** **já entregue**
 - Movimentação básica;
 - Menu inicial;
 - Mapa inicial.
 
 ### **Etapa 3: Polimento (Bimestre 3)**
-- Mapa maior;
+- Mapa completo;
 - Temporizador;
 - Tela de game over;
 - Tela de pausa;
 - Implementação do easter egg;
-- 
+- Tela de finalização;
+- Efeitos sonoros.
 
 ## **Etapa 4: Testes e Entrega Final (Bimestre 4)**
+- Final alternativo ao tocar o easter egg;
+- Testes e correção de bugs.
+
+
+## **4. Requisitos técnicos**
+
+Até agora nenhum requisito mínimo.

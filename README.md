@@ -18,4 +18,22 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
 
 ### **2.1 Funcionalidades Principais**
 
-- Motor do Jogo:
+- **Motor do Jogo:**
+  - Movimentação (direita, esquerda, saltar);
+  - Detecção de colisões e sistema de gravidade próprio da engine Unity;
+  - Sistema de checkpoints;
+  - Sistema de Timer em tempo real mostrando o tempo de jogo atual (Interessante para speedruners).
+    
+- **Interface gráfica:**
+  - Display do tempo jogado;
+  - Renderização do mapa e do jogador;
+  - Telas de início, pausa e game over.
+
+- **Extras:**
+  - Efeitos sonoros (Morte, Salto, trilha sonora contínua);
+
+### **2.2 Arquitetura do Código**
+
+  Lazy-Metal/
+
+    Assets/

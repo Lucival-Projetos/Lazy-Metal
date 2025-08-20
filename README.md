@@ -18,4 +18,4 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
 
 ### **2.1 Funcionalidades Principais**
 
-. Motor do Jogo:
+- Motor do Jogo:

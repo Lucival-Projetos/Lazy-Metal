@@ -39,10 +39,15 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
       Assets/ #todos os itens utilizados no jogo, sejam gráficos ou códigos
       
         Scripts/ #local onde armazeno os códigos do jogo
+        
           Player.cs #classe do jogador
+          
           MudarCamera.cs #classe para a funcionalidade do menu inicial
+          
           Timer.cs #classe para a funcionalidade do temporizador
+          
         Pallete/ #local para guardar as paletas do sistema de tilemap do Unity
+        
           Tiles/ # pasta dentro de Pellete para guardar cada tile (uma dessa para cada tilemap)
 
 

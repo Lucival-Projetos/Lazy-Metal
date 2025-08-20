@@ -34,6 +34,32 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
 
 ### **2.2 Arquitetura do Código**
 
-  Lazy-Metal/
+    Lazy-Metal/
+  
+      Assets/ #todos os itens utilizados no jogo, sejam gráficos ou códigos
+      
+        Scripts/ #local onde armazeno os códigos do jogo
+          Player.cs #classe do jogador
+          MudarCamera.cs #classe para a funcionalidade do menu inicial
+          Timer.cs #classe para a funcionalidade do temporizador
+        Pallete/ #local para guardar as paletas do sistema de tilemap do Unity
+          Tiles/ # pasta dentro de Pellete para guardar cada tile (uma dessa para cada tilemap)
 
-    Assets/
+## **3. Etapas de Entrega (Cronograma Detalhado)**
+
+### **Etapa 1: Protótipo Básico (Bimestre 1)** **~Já entregue~**
+
+### **Etapa 2: Lógica do Jogo (Bimestre 2)**
+- Movimentação básica;
+- Menu inicial;
+- Mapa inicial.
+
+### **Etapa 3: Polimento (Bimestre 3)**
+- Mapa maior;
+- Temporizador;
+- Tela de game over;
+- Tela de pausa;
+- Implementação do easter egg;
+- 
+
+## **Etapa 4: Testes e Entrega Final (Bimestre 4)**

@@ -9,3 +9,7 @@
 
 ## **2.Descrição Detalhada do Projeto**
 
+### **O que é o gênero plataforma?**
+
+O genero plataforma se trata de um gênero de jogos focado na movimentção entre plataformas - normalmente flutuantes - que servem para desafiar o jogador. Esse estilo de jogo possui uma gama de fãs muito grande, 
+principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo no menor intervao de tempo possível) por se tratar de um tipo de gameplaay mais memorizável e fácil de criar estratégias.

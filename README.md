@@ -56,22 +56,24 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
 ### **~Etapa 1: Protótipo Básico (Bimestre 1)~** **Já entregue**
 
 ### **~Etapa 2: Lógica do Jogo (Bimestre 2)~** **já entregue**
-- Movimentação básica;
-- Menu inicial;
-- Mapa inicial.
 
-### **Etapa 3: Polimento (Bimestre 3)**
-- Mapa completo;
+
+### **Etapa 3: Mecânicas básicas (Bimestre 3)**
+- primeira sala;
+- movimentação e pulo;
+- animações;
+- menu inicial;
+- botões quit e start.
+
+## **Etapa 4: Testes e Entrega Final (Bimestre 4)**
+- Final alternativo ao tocar o easter egg;
+- Testes e correção de bugs;
 - Temporizador;
 - Tela de game over;
 - Tela de pausa;
 - Implementação do easter egg;
 - Tela de finalização;
 - Efeitos sonoros.
-
-## **Etapa 4: Testes e Entrega Final (Bimestre 4)**
-- Final alternativo ao tocar o easter egg;
-- Testes e correção de bugs.
 
 
 ## **4. Requisitos técnicos**

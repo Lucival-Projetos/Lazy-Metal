@@ -21,34 +21,28 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
 - **Motor do Jogo:**
   - Movimentação (direita, esquerda, saltar);
   - Detecção de colisões e sistema de gravidade próprio da engine Unity;
-  - Sistema de checkpoints;
-  - Sistema de Timer em tempo real mostrando o tempo de jogo atual (Interessante para speedruners).
     
 - **Interface gráfica:**
-  - Display do tempo jogado;
   - Renderização do mapa e do jogador;
-  - Telas de início, pausa e game over.
+  - Telas de início, e de finalização.
 
 - **Extras:**
-  - Efeitos sonoros (Morte, Salto, trilha sonora contínua);
+  - Trilha sonora ontínua.
 
 ### **2.2 Arquitetura do Código**
 
     Lazy-Metal/
   
-      Assets/ #todos os itens utilizados no jogo, sejam gráficos ou códigos
+      Assets/ #todos os itens utilizados no jogo, sejam gráficos ou códigos, dentre eles, sons, scripts, sprites.
       
         Scripts/ #local onde armazeno os códigos do jogo
         
-          Player.cs #classe do jogador
-          
-          MudarCamera.cs #classe para a funcionalidade do menu inicial
-          
-          Timer.cs #classe para a funcionalidade do temporizador
           
         Pallete/ #local para guardar as paletas do sistema de tilemap do Unity
         
           Tiles/ # pasta dentro de Pellete para guardar cada tile (uma dessa para cada tilemap)
+
+        
 
 
 ## **3. Etapas de Entrega (Cronograma Detalhado)**
@@ -66,16 +60,11 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
 - botões quit e start.
 
 ## **Etapa 4: Testes e Entrega Final (Bimestre 4)**
-- Final alternativo ao tocar o easter egg;
 - Testes e correção de bugs;
-- Temporizador;
-- Tela de game over;
-- Tela de pausa;
-- Implementação do easter egg;
 - Tela de finalização;
 - Efeitos sonoros.
 
 
 ## **4. Requisitos técnicos**
 
-Até agora nenhum requisito mínimo.
+- Ter os arquivos essenciais instalados

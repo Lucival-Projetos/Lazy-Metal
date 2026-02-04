@@ -67,4 +67,4 @@ principalmente nas comunidades de Speedrun (prática de tentar finalizar um jogo
 
 ## **4. Requisitos técnicos**
 
-- Ter os arquivos essenciais instalados
+- Unity (2022.3.62f1)
